@@ -21,4 +21,4 @@ RewriteRule ^ index.php [L]
 5. Done! You (and your users) can now login. The site will automatically redirect you to the Tumblr login page if you are not already authenticated.
 
 ### Gallery
-![](https://img.cleberg.io/michelangelo/gallery.png)
+![](https://img.cleberg.net/michelangelo/gallery.png)
